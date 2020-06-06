@@ -3,6 +3,8 @@
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building .NET Core applications, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=azure-devops).
 
+[![Build Status](https://dev.azure.com/GTaylor0554/fmg-pipelines-test/_apis/build/status/gpltaylor.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/GTaylor0554/fmg-pipelines-test/_build/latest?definitionId=3&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
